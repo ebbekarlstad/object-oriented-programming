@@ -1,0 +1,22 @@
+n0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/Album.java
+w0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/AlbumGenerator.java
+l0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/App.java
+x0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/ArrayAlgorithms.java
+o0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/GradeA.java
+o0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/GradeC.java
+s0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/HelloThere.java
+m0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/Time.java
+91 FindBugs Issues in assignmentone/ArrayAlgorithms.java
+text:lines: 8-75 
+=Random object created and used only once in shuffle(int[]) 
++Random object created and used only once 
+_This code creates a java.util.Random object, uses it to generate one random number, and then 
+e  discards the Random object. This produces mediocre quality random numbers and is inefficient. If 
+d  possible, rewrite the code so that the Random object is created once and saved, and each time a 
+^  new random number is required invoke a method on the existing Random object to obtain it. 
+ 
+cIf it is important that the generated Random numbers not be guessable, you must not create a new 
+e  Random for each random number; the values are too easily guessable. You should strongly consider 
+a  using a java.security.SecureRandom instead (and avoid allocating a new SecureRandom for each 
+  random number needed).
+

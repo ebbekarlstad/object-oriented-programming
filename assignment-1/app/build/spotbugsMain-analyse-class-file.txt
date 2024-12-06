@@ -1,0 +1,8 @@
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\Album.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\AlbumGenerator.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\App.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\ArrayAlgorithms.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\GradeA.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\GradeC.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\HelloThere.class
+C:\Users\skate\Courses\1DV502\assignment-1\app\build\classes\java\main\assignmentone\Time.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignmentone.AlbumTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-02-13T14:19:48" hostname="LENOVO-7PRO" time="0.006">
+  <properties/>
+  <testcase name="testSetArtistNull()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testAlbum()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetNameNull()" classname="assignmentone.AlbumTest" time="0.001"/>
+  <testcase name="testSetNameToShort()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetYearTooLow()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetArtist()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetArtistToShort()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetName()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <testcase name="testSetYear()" classname="assignmentone.AlbumTest" time="0.001"/>
+  <testcase name="testSetYearTooHigh()" classname="assignmentone.AlbumTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

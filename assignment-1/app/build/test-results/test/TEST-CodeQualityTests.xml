@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-13T14:19:48" hostname="LENOVO-7PRO" time="0.064">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.064"/>
+  <system-out><![CDATA[0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/Album.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/AlbumGenerator.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/App.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/ArrayAlgorithms.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/GradeA.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/GradeC.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/HelloThere.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-1/app/src/main/java/assignmentone/Time.java
+1 FindBugs Issues in assignmentone/ArrayAlgorithms.java
+text:lines: 8-75 
+Random object created and used only once in shuffle(int[]) 
+Random object created and used only once 
+This code creates a java.util.Random object, uses it to generate one random number, and then 
+  discards the Random object. This produces mediocre quality random numbers and is inefficient. If 
+  possible, rewrite the code so that the Random object is created once and saved, and each time a 
+  new random number is required invoke a method on the existing Random object to obtain it. 
+ 
+If it is important that the generated Random numbers not be guessable, you must not create a new 
+  Random for each random number; the values are too easily guessable. You should strongly consider 
+  using a java.security.SecureRandom instead (and avoid allocating a new SecureRandom for each 
+  random number needed).
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

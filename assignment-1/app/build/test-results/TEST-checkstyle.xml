@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="8" errors="0" name="checkstyle">
+<testcase time="0" name="assignmentone/Album.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/AlbumGenerator.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/ArrayAlgorithms.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/GradeA.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/GradeC.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/HelloThere.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignmentone/Time.java" classname="CheckStyle Issues">
+</testcase></testsuite>
