@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Board.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\ConsoleUi.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Dice.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Free.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Game.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\HumanPlayer.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Player.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Property.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Start.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV502\assignment-3\app\src\main\java\monopoly\Tile.java">
+</file>
+</checkstyle>

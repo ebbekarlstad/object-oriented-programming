@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-28T13:42:50" hostname="LENOVO-7PRO" time="0.059">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.059"/>
+  <system-out><![CDATA[0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Board.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/ConsoleUi.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Dice.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Free.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Game.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/HumanPlayer.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Player.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Property.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Start.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV502/assignment-3/app/src/main/java/monopoly/Tile.java
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

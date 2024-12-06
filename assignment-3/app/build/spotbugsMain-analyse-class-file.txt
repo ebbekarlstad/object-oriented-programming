@@ -1,0 +1,12 @@
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Board.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\ConsoleUi$Action.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\ConsoleUi.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Dice.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Free.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Game.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\HumanPlayer$1.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\HumanPlayer.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Player.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Property.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Start.class
+C:\Users\skate\Courses\1DV502\assignment-3\app\build\classes\java\main\monopoly\Tile.class
